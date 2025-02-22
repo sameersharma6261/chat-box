@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start":"node servber.js"
+  },
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "body-parser": "^1.20.3",
